@@ -8,7 +8,7 @@
   <a href="https://github.com/atalarmdhn">
     <img src="https://img.shields.io/badge/GitHub-atalarmdhn-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/atalarmdhn/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="YOUR_PORTFOLIO_URL">
@@ -22,12 +22,12 @@
 
 I'm a **Computer Engineering graduate** interested in building software and intelligent systems that connect **code, data, networks, and hardware**.
 
-My project experience covers **software development, frontend/web development, computer vision, embedded systems, and device communication**. I enjoy breaking real-world problems into practical, testable solutions and learning new technologies through hands-on projects.
+My project experience covers **software development, computer vision, embedded systems, and device communication**. I enjoy breaking real-world problems into practical, testable solutions and learning new technologies through hands-on projects.
 
 ### Current focus
 
-- 💻 Software & Frontend Development
 - 🤖 AI & Computer Vision
+- 💻 Software Development
 - ⚙️ Embedded Software & RTOS
 - 🌐 Networking & Device Communication
 - 🚀 Building practical projects for real-world use
@@ -132,17 +132,17 @@ I am also developing modern web interfaces with a focus on **component-based UI,
 ## 🧠 What I Like Building
 
 ```text
-Software Engineering
-├── Frontend Applications
-├── Python / C / C++
-├── Data & API Integration
-└── Problem Solving
 
 AI & Computer Vision
 ├── Pose Estimation
 ├── Activity Recognition
 ├── Deep Learning
 └── Multi-Camera Systems
+
+Software Engineering
+├── Python / C / C++
+├── Data & API Integration
+└── Problem Solving
 
 Embedded Systems
 ├── STM32
@@ -183,7 +183,7 @@ Networking
 
 I'm interested in **internship, graduate, and entry-level opportunities** related to:
 
-**Software Engineering · Frontend Development · AI / Computer Vision · Embedded Software · Robotics · IoT · Networking / Systems**
+**Software Engineering · AI / Computer Vision · Embedded Software · Robotics · IoT · Networking / Systems**
 
 I’m especially interested in roles where software can interact with **real-world systems, devices, or data**.
 
