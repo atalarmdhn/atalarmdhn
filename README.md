@@ -75,9 +75,9 @@ My project experience covers **software development, computer vision, embedded s
 
 ---
 
-## 🚀 Selected Projects
+## Selected Projects
 
-### 🧓 Multi-Camera Elderly Activity Recognition
+### Multi-Camera Elderly Activity Recognition
 **Python · MediaPipe Pose · ST-GCN · Multi-View Temporal Fusion**
 
 A computer-vision system for recognizing elderly activities from multiple camera views, with a focus on reducing the impact of **occlusion and blind spots**.
@@ -90,7 +90,7 @@ A computer-vision system for recognizing elderly activities from multiple camera
 
 ---
 
-### 🧪 Health Analyzer Middleware
+### Health Analyzer Middleware
 **C/C++ · Python · RS232 · TCP/IP · Device Integration**
 
 A middleware project for exchanging data between analyzer devices and software systems.
@@ -103,7 +103,7 @@ A middleware project for exchanging data between analyzer devices and software s
 
 ---
 
-### ⚙️ STM32 FreeRTOS Projects
+### STM32 FreeRTOS Projects
 **C · STM32 · FreeRTOS · HAL · UART · ADC · GPIO**
 
 Hands-on embedded development exercises covering RTOS task management and microcontroller peripherals.
