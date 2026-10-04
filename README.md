@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **Computer Engineering graduate** interested in building software and intelligent systems that connect **code, data, networks, and hardware**.
 
@@ -34,7 +34,7 @@ My project experience covers **software development, computer vision, embedded s
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -120,7 +120,7 @@ Hands-on embedded development exercises covering RTOS task management and microc
 
 ---
 
-### 🌐 Frontend & Web Development
+### Frontend & Web Development
 **React.js · JavaScript · HTML · CSS**
 
 I am also developing modern web interfaces with a focus on **component-based UI, responsive layouts, usability, and clean code**.
@@ -129,7 +129,7 @@ I am also developing modern web interfaces with a focus on **component-based UI,
 
 ---
 
-## 🧠 What I Like Building
+## What I Like Building
 
 ```text
 
@@ -160,7 +160,7 @@ Networking
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - React.js and modern frontend development
 - Software engineering and clean architecture practices
@@ -170,7 +170,7 @@ Networking
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atalarmdhn&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
@@ -179,7 +179,7 @@ Networking
 
 ---
 
-## 🎯 Open to Opportunities
+## Open to Opportunities
 
 I'm interested in **internship, graduate, and entry-level opportunities** related to:
 
@@ -189,7 +189,7 @@ I’m especially interested in roles where software can interact with **real-wor
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p>
   <a href="https://github.com/atalarmdhn">GitHub</a> ·
